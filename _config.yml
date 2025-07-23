@@ -1,0 +1,12 @@
+title: "Madhankumar Kalviselvam"
+description: "Backend Engineer | Go, Java, Kafka, Kubernetes | Fintech & Loyalty Systems"
+baseurl: ""
+url: "https://selvapuram.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+author:
+  name: "Madhankumar Kalviselvam"
+  email: madhan2007.psgtech@gmail.com
